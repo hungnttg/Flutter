@@ -1,0 +1,6 @@
+Link json
+https://jsonplaceholder.typicode.com/posts/1/comments
+https://jsonplaceholder.typicode.com/albums/1/photos
+https://jsonplaceholder.typicode.com/users/1/albums
+https://jsonplaceholder.typicode.com/users/1/todos
+https://jsonplaceholder.typicode.com/users/1/posts
